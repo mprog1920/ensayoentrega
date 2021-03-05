@@ -3,7 +3,7 @@
  *  Descripción de un estudiante
  * 
  * @author - Montse 
- * @version  
+ *  
  */
 public class Estudiante
 {
